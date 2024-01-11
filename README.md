@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @fabio-rafael
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and have some basic experience with python , java , html , css and SQL
 - 💞️ I’m looking to collaborate on any project just looking hungry for experience and learn more .
+  
 
 
 <!---
