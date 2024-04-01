@@ -47,10 +47,10 @@
 
 <div align="center" >
   <a href="https://www.linkedin.com/in/f%C3%A1bio-pinto-196292293/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="30" alt="linkedin logo" />
   </a>
   <a href="fabio.rafael7@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="82" height="40" alt="microsoft-outlook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="82" height="30" alt="microsoft-outlook logo" />
   </a>
 </div>
 
